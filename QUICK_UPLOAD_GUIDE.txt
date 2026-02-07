@@ -1,0 +1,124 @@
+╔════════════════════════════════════════════════════════════════╗
+║     AI STUDY PLANNER - QUICK GITHUB UPLOAD GUIDE              ║
+╚════════════════════════════════════════════════════════════════╝
+
+📋 EASIEST METHOD - Use the Batch Script
+═══════════════════════════════════════════════════════════════
+
+1. Make sure Git is installed on your computer
+   Download from: https://git-scm.com/download/win
+
+2. Double-click: upload-to-github.bat
+
+3. Follow the prompts
+
+4. When asked for password, use your Personal Access Token
+   (NOT your GitHub password)
+
+5. Done! Your code will be on GitHub.
+
+
+🔑 HOW TO GET PERSONAL ACCESS TOKEN
+═══════════════════════════════════════════════════════════════
+
+1. Go to: https://github.com/settings/tokens
+
+2. Click "Generate new token (classic)"
+
+3. Give it a name: "AI Study Planner Upload"
+
+4. Select scope: ✓ repo (full control)
+
+5. Click "Generate token"
+
+6. COPY THE TOKEN (you won't see it again!)
+
+7. Use this token as your password when pushing to GitHub
+
+
+📝 MANUAL METHOD - Command Line
+═══════════════════════════════════════════════════════════════
+
+Open Command Prompt in your project folder and run:
+
+git init
+git remote add origin https://github.com/RiyaShukla07/AI_StudyPlanner.git
+git add .
+git commit -m "Initial commit: AI Study Planner"
+git branch -M main
+git push -u origin main
+
+Enter your GitHub username and Personal Access Token when prompted.
+
+
+🖱️ EASIEST METHOD - GitHub Desktop
+═══════════════════════════════════════════════════════════════
+
+1. Download GitHub Desktop: https://desktop.github.com/
+
+2. Install and sign in
+
+3. File → Add local repository → Browse to your folder
+
+4. Click "Publish repository"
+
+5. Done!
+
+
+✅ WHAT WILL BE UPLOADED
+═══════════════════════════════════════════════════════════════
+
+✓ All source code (src/ folder)
+✓ Configuration files (package.json, tsconfig.json, etc.)
+✓ Documentation (README.md, specs, etc.)
+✓ .kiro folder with project specifications
+✓ All other project files
+
+✗ node_modules/ (excluded - users will run npm install)
+✗ dist/ (excluded - build output)
+✗ Log files (excluded)
+
+
+🔍 VERIFY UPLOAD
+═══════════════════════════════════════════════════════════════
+
+After uploading, visit:
+https://github.com/RiyaShukla07/AI_StudyPlanner
+
+Check that:
+✓ All files are visible
+✓ README.md displays correctly
+✓ Folder structure is intact
+
+
+❓ TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════
+
+Problem: "Git is not recognized"
+Solution: Install Git from https://git-scm.com/download/win
+
+Problem: "Permission denied"
+Solution: Use Personal Access Token, not password
+
+Problem: "Repository not found"
+Solution: Create the repository on GitHub first:
+         1. Go to https://github.com/RiyaShukla07
+         2. Click "New repository"
+         3. Name: AI_StudyPlanner
+         4. Don't initialize with README
+         5. Click "Create repository"
+
+Problem: "Failed to push"
+Solution: Check your internet connection and credentials
+
+
+📞 NEED MORE HELP?
+═══════════════════════════════════════════════════════════════
+
+Read the detailed guide: GITHUB_UPLOAD_INSTRUCTIONS.md
+
+Or search for: "how to push code to github windows"
+
+
+🎉 GOOD LUCK!
+═══════════════════════════════════════════════════════════════

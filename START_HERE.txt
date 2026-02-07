@@ -1,0 +1,91 @@
+================================================================================
+                    AI STUDY PLANNER - START HERE
+================================================================================
+
+IMPORTANT: The TypeScript errors you see are NORMAL before installation!
+
+================================================================================
+                        STEP 1: INSTALL DEPENDENCIES
+================================================================================
+
+Choose ONE of these options:
+
+OPTION A (Easiest - Windows):
+    Double-click: install.bat
+
+OPTION B (Command Line):
+    npm install
+
+This will take 1-3 minutes and download ~300-400 MB of packages.
+
+================================================================================
+                        STEP 2: START THE APP
+================================================================================
+
+After installation completes, run:
+    npm run dev
+
+Then open your browser to:
+    http://localhost:5173
+
+================================================================================
+                        STEP 3: TRY THE DEMO
+================================================================================
+
+On the landing page, click "Try Demo" to see the app with sample data.
+
+Or click "Get Started" to create your own study schedule.
+
+================================================================================
+                            WHAT'S INCLUDED
+================================================================================
+
+✓ Complete React + TypeScript application
+✓ AI-powered schedule generation
+✓ Pomodoro timer with session tracking
+✓ Adaptive learning based on feedback
+✓ Progress tracking and visualization
+✓ Responsive design (mobile/tablet/desktop)
+✓ Demo data for instant testing
+✓ Full documentation
+
+================================================================================
+                            DOCUMENTATION
+================================================================================
+
+INSTALL_FIRST.md     - Installation guide and troubleshooting
+QUICKSTART.md        - 5-minute usage guide
+README.md            - Complete project documentation
+DEPLOYMENT.md        - How to deploy to Vercel/Netlify
+PROJECT_SUMMARY.md   - Technical overview
+CURRENT_STATUS.md    - Current project status
+
+================================================================================
+                            NEED HELP?
+================================================================================
+
+1. Make sure Node.js 18+ is installed: node --version
+2. If npm install fails, try: npm cache clean --force
+3. Read INSTALL_FIRST.md for detailed troubleshooting
+
+================================================================================
+                            QUICK FACTS
+================================================================================
+
+Technology Stack:
+- React 18 + TypeScript
+- Vite (build tool)
+- Tailwind CSS (styling)
+- Zustand (state management)
+- date-fns (date utilities)
+
+Installation Time: 1-3 minutes
+First Run: Instant (after install)
+Setup Time: 2 minutes to create schedule
+Demo Mode: One-click to see working example
+
+================================================================================
+
+Ready to start? Run: npm install (or double-click install.bat)
+
+================================================================================

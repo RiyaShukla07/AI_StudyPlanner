@@ -1,0 +1,182 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║              🚀 UPLOAD TO GITHUB - START HERE 🚀                    ║
+║                                                                      ║
+║                    AI Study Planner Project                          ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+
+👋 Hi! Ready to upload your project to GitHub?
+
+Follow these simple steps:
+
+
+┌──────────────────────────────────────────────────────────────────────┐
+│  STEP 1: Make Sure Git is Installed                                 │
+└──────────────────────────────────────────────────────────────────────┘
+
+Open Command Prompt and type: git --version
+
+✓ If you see a version number → Git is installed, continue to Step 2
+✗ If you see an error → Download Git from: https://git-scm.com/download/win
+
+
+┌──────────────────────────────────────────────────────────────────────┐
+│  STEP 2: Configure Git (First Time Only)                            │
+└──────────────────────────────────────────────────────────────────────┘
+
+Double-click this file: configure-git.bat
+
+Enter your name and email when prompted.
+
+
+┌──────────────────────────────────────────────────────────────────────┐
+│  STEP 3: Get Your Personal Access Token                             │
+└──────────────────────────────────────────────────────────────────────┘
+
+⚠️ IMPORTANT: GitHub requires a Personal Access Token (not password)
+
+1. Open this link: https://github.com/settings/tokens
+
+2. Click "Generate new token (classic)"
+
+3. Token name: AI Study Planner Upload
+
+4. Select permissions: ✓ repo (check the box)
+
+5. Click "Generate token" at the bottom
+
+6. 🔴 COPY THE TOKEN NOW! You won't see it again!
+
+7. Save it somewhere safe (Notepad, etc.)
+
+
+┌──────────────────────────────────────────────────────────────────────┐
+│  STEP 4: Create Repository on GitHub (If Not Already Created)       │
+└──────────────────────────────────────────────────────────────────────┘
+
+1. Go to: https://github.com/RiyaShukla07
+
+2. Click the green "New" button (or + icon → New repository)
+
+3. Repository name: AI_StudyPlanner
+
+4. Description: AI-powered study planner for engineering students
+
+5. Choose: ○ Public  or  ○ Private
+
+6. ⚠️ DO NOT check "Initialize with README" (we already have one)
+
+7. Click "Create repository"
+
+
+┌──────────────────────────────────────────────────────────────────────┐
+│  STEP 5: Upload Your Code                                           │
+└──────────────────────────────────────────────────────────────────────┘
+
+Double-click this file: upload-to-github.bat
+
+The script will:
+  ✓ Initialize Git
+  ✓ Add all your files
+  ✓ Create a commit
+  ✓ Push to GitHub
+
+When asked for credentials:
+  Username: RiyaShukla07
+  Password: [Paste your Personal Access Token from Step 3]
+
+
+┌──────────────────────────────────────────────────────────────────────┐
+│  STEP 6: Verify Upload                                              │
+└──────────────────────────────────────────────────────────────────────┘
+
+Open your browser and go to:
+https://github.com/RiyaShukla07/AI_StudyPlanner
+
+You should see all your files! 🎉
+
+
+╔══════════════════════════════════════════════════════════════════════╗
+║                         THAT'S IT! 🎊                                ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+
+📚 NEED MORE HELP?
+
+→ Quick guide: QUICK_UPLOAD_GUIDE.txt
+→ Detailed guide: GITHUB_UPLOAD_INSTRUCTIONS.md
+→ Summary: UPLOAD_SUMMARY.md
+
+
+🔧 ALTERNATIVE METHODS
+
+Don't like command line? Try these:
+
+1. GitHub Desktop (Easiest)
+   Download: https://desktop.github.com/
+   Then: File → Add local repository → Publish
+
+2. VS Code
+   Open project in VS Code
+   Click Source Control icon (left sidebar)
+   Click "Publish to GitHub"
+
+3. Web Upload
+   Go to your GitHub repository
+   Click "uploading an existing file"
+   Drag and drop all files
+
+
+❓ COMMON ISSUES
+
+Problem: "git is not recognized"
+Fix: Install Git from https://git-scm.com/download/win
+
+Problem: "Permission denied"
+Fix: Use Personal Access Token as password, not your GitHub password
+
+Problem: "Repository not found"
+Fix: Create the repository on GitHub first (see Step 4)
+
+Problem: "Failed to push"
+Fix: Check internet connection and verify credentials
+
+
+💡 TIPS
+
+• Save your Personal Access Token somewhere safe
+• You can reuse the same token for future uploads
+• The token is like a password - keep it secret!
+• If you lose it, just generate a new one
+
+
+🎯 WHAT'S BEING UPLOADED
+
+Your complete AI Study Planner project:
+  ✓ All source code (src/ folder)
+  ✓ Configuration files
+  ✓ Documentation (README, specs, etc.)
+  ✓ Everything except node_modules and build files
+
+
+🌟 AFTER UPLOAD
+
+Your project will be live at:
+https://github.com/RiyaShukla07/AI_StudyPlanner
+
+You can:
+  • Share the link with others
+  • Add it to your resume/portfolio
+  • Deploy it to Vercel or Netlify
+  • Collaborate with others
+
+
+═══════════════════════════════════════════════════════════════════════
+
+Ready? Start with STEP 1 above! 🚀
+
+Good luck! You've got this! 💪
+
+═══════════════════════════════════════════════════════════════════════
