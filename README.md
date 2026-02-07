@@ -2,6 +2,9 @@
 
 An AI-powered study planner that generates personalized, adaptive study schedules for engineering students. Built for hackathons with a focus on immediate value and practical features.
 
+Drive link:https://drive.google.com/file/d/18zoZV02HuJWs4klPZW2VjWgQD1pYW9bg/view?usp=drivesdk
+
+
 ## Features
 
 ### Core MVP Features
